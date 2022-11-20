@@ -15,9 +15,9 @@ The goal of the case is as follows:
 
 
 # Software And Tools Requirements
-Github Account
-VSCodeIDE
-GitCLI
+1) Github Account
+2) VSCodeIDE
+3) GitCLI
 
 Create a new environment
 
